@@ -90,15 +90,15 @@ const Footer = () => {
             <ul className="space-y-3">
               <li className="flex items-center gap-3 text-background/70">
                 <Mail className="w-5 h-5 text-coral" />
-                contato@voyagelux.com
+                tuuri@gmail.com
               </li>
               <li className="flex items-center gap-3 text-background/70">
                 <Phone className="w-5 h-5 text-coral" />
-                0800 123 4567
+                (+224) 912 346 6789
               </li>
               <li className="flex items-start gap-3 text-background/70">
                 <MapPin className="w-5 h-5 text-coral shrink-0" />
-                Av. Paulista, 1000 - São Paulo, SP
+                Angola-Luanda
               </li>
             </ul>
           </div>

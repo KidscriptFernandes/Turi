@@ -74,7 +74,7 @@ const Hero = () => {
                     <MapPin className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-muted-foreground" />
                     <input
                       type="text"
-                      placeholder="São Paulo (GRU)"
+                      placeholder="Sua Localização"
                       className="w-full pl-10 pr-4 py-3 rounded-lg border border-input bg-background focus:outline-none focus:ring-2 focus:ring-ocean"
                     />
                   </div>
@@ -85,7 +85,7 @@ const Hero = () => {
                     <MapPin className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-muted-foreground" />
                     <input
                       type="text"
-                      placeholder="Para onde?"
+                      placeholder="Para onde ?"
                       className="w-full pl-10 pr-4 py-3 rounded-lg border border-input bg-background focus:outline-none focus:ring-2 focus:ring-ocean"
                     />
                   </div>

@@ -11,10 +11,7 @@ const Navbar = () => {
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <a href="/" className="flex items-center gap-2">
-            <div className="w-10 h-10 rounded-lg bg-gradient-to-r from-ocean to-ocean-light flex items-center justify-center">
-              <Plane className="w-5 h-5 text-primary-foreground" />
-            </div>
-            <span className="text-xl font-display font-bold text-foreground">TUURI</span>
+            <span className="text-xl font-display  color-red font-bold text-foreground">TUURI</span>
           </a>
 
           {/* Desktop Navigation */}
